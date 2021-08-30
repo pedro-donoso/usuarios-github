@@ -1,0 +1,16 @@
+.main {
+    border-radius: 1rem;
+}
+
+.seccion {
+    background-color: rgb(255, 145, 0);
+    border-radius: 1rem;
+    padding-top: 1rem;
+    width: 40%;
+}
+
+.repos {
+    background-color: rgb(224, 223, 130);
+    border-radius: 1rem;
+    padding-top: 1rem;
+}
